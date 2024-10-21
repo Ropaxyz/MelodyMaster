@@ -299,8 +299,6 @@ async def lyrics(interaction: discord.Interaction):
     except Exception as e:
         await interaction.response.send_message(f"Error fetching lyrics: {str(e)}", ephemeral=True)
 
-# [Previous code remains the same...]
-
 @bot.tree.command(name="share")
 async def share(interaction: discord.Interaction):
     try:
