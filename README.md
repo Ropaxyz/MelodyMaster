@@ -2,6 +2,8 @@
 
 A powerful Discord bot that integrates with Spotify, providing real-time music updates, playback controls, and personalized music recommendations. Created by Ross Paxton.
 
+![image](https://github.com/user-attachments/assets/e2e2e3db-7cf9-495d-9f07-aec03f078a73)
+
 ## Features
 
 - 🎵 Real-time track updates in DMs
