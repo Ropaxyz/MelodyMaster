@@ -1,4 +1,4 @@
-discord.py
-spotipy
-python-dotenv
-lyricsgenius
+discord.py>=2.3.0
+spotipy>=2.23.0
+python-dotenv>=1.0.0
+requests>=2.31.0
